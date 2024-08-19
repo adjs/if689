@@ -1,4 +1,4 @@
-// Máquinas de Turing
+**Máquinas de Turing**
 
 1. Dê o diagrama de estados de uma MT com uma fita determinística sobre o alfabeto {0, 1} que reconheça a linguagem {w | w contém duas vezes mais 0s que 1s}.
 2. Mostre que a coleção de linguagens decidíveis é fechada sob a operação de
